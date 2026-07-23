@@ -52,11 +52,11 @@ Uma landing page moderna, dinâmica e 100% responsiva para a **Academia Pro**, c
 ```text
 academia-pro/
 │
-├── assets/
-│   └── images/          # Fotos da academia, modalidades e preview
-├── css/
-│   └── style.css        # Estilos globais
-├── js/
-│   └── script.js        # Interações e lógica
+├── images/              # Fotos da academia e preview
+│   ├── gym.jpg
+│   └── preview.png
+│
+├── README.md            # Documentação do repositório
 ├── index.html           # Página principal
-└── README.md            # Documentação
+├── script.js            # Interações e lógica
+└── teste.css            # Estilos globais
