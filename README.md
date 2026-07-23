@@ -3,7 +3,7 @@
 <div align="center">
 
   <!-- IMAGEM DE PREVIEW -->
-  <img src="assets/images/preview.png" alt="Prévia da Landing Page Academia Pro" width="100%">
+  <img src="images/preview.png" alt="Prévia da Landing Page Academia Pro" width="100%">
 
   <br><br>
 
