@@ -1,3 +1,9 @@
+## 👨‍💻 Autor
+
+Desenvolvido por **Riolly Mikael**.
+
+* **GitHub:** [@riollymikael](https://github.com/riollymikael)
+  
 # 🏋️ Academia Pro — Landing Page Fitness
 
 <div align="center">
